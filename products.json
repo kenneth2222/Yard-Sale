@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "name":" Black And White",
+        "price": 40,
+        "image": "image/1.jpg"
+    },
+    {
+        "id": 2,
+        "name":" Iphone 4",
+        "price": 50,
+        "image": "image/2.jpg"
+    },
+    {
+        "id": 3,
+        "name":" Gucci Belt",
+        "price": 5,
+        "image": "image/3.jpg"
+    },
+    {
+        "id": 4,
+        "name":" Old Stove",
+        "price": 40,
+        "image": "image/4.jpg"
+    },
+    {
+        "id": 5,
+        "name":" Sitting Couch",
+        "price": 30,
+        "image": "image/5.jpg"
+    },
+    {
+        "id": 6,
+        "name":" Washing Machine",
+        "price": 45,
+        "image": "image/6.jpg"
+    },
+    {
+        "id": 7,
+        "name":" Vacuum Cleaner",
+        "price": 15,
+        "image": "image/7.jpg"
+    },
+    {
+        "id": 8,
+        "name":" DVD Player",
+        "price": 25,
+        "image": "image/8.jpg"
+    }
+
+]
